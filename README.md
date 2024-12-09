@@ -1,7 +1,7 @@
 # Personal Chatbot with Gemini Integration
 This project is a Personal Chatbot created using Google Colab, which connects to Gemini via the Google API. The chatbot leverages Google Studio credentials for seamless integration, enabling conversational AI capabilities.
 
-##Features
+## Features
 
 🌟 Gemini Integration: Communicates effectively using Gemini's AI language model.
 
